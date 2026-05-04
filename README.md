@@ -28,8 +28,7 @@ This project analyzes customer churn behavior to identify key factors influencin
 ## Dashboard Preview
 ![Dashboard](dashboard.jpeg)
 
-## Analysis in Excel (Pivot Tables)
-![Pivot Analysis](Pivot table.png)
+![Pivot Analysis](Pivot%20table.png)
 
 ## Dashboard Features
 - KPI cards (Total Customers, Churned Customers, Churn Rate, Avg Lifetime)
